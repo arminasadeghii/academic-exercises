@@ -8,7 +8,8 @@
 - ✅ `fisaghores numbers.py` – Find Pythagorean triples  
 - ✅ `square.py` – Print square shape using loops
 - ✅ `rock_paper_scissors` – A simple Rock-Paper-Scissors game against the computer. Keeps track of scores and ends when either player reaches 3 points.
-
+- ✅ `weather.ipynb` – A simple weather application in Jupyter Notebook that fetches and displays current weather data based on user input
+  
 ## 🎯 Goals
 
 - Practice Python programming fundamentals  
